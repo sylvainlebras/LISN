@@ -1,0 +1,10 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"MF";"MPN";"OC_FARNELL";"OC_NEWARK";"WE-NUMBER";
+"2";"0603/82306050029";"WE-VE_ULC_0603_82306050029";"WE-VE_ULC_0603";"D1, D2";"WE-VE ULC ESD Suppressor";"";"";"";"";"";
+"2";"0805/1kR/1%";"R-EU_M0805";"M0805";"RLB, RLT";"RESISTOR, European symbol";"";"";"";"";"";
+"2";"1.2µH/890334027012CS";"WCAP-FTXX_890334027025";"WCAP-FTXX_27.5X31X29X15.5";"CINB1, CINT1";"WCAP-FTXX Film Capacitors";"";"";"";"";"";
+"10";"10µH/7443321000";"WE-HCC_1210_7443321000";"WE-HCC_1210";"L1, L2, L3, L4, L5, L6, L7, L8, L9, L10";"SMD High Current Cube Inductor";"";"";"";"";"7443321000/10uH";
+"4";"3.3µH/890334027025CS";"WCAP-FTXX_890334027025";"WCAP-FTXX_27.5X31X29X15.5";"CINB2, CINB3, CINT2, CINT3";"WCAP-FTXX Film Capacitors";"";"";"";"";"";
+"2";"60312002114503";"LTI-SASF54GT";"LTI-SASF54GT";"X1, X2";"SMA vertical PCB thrue hole jack";"";"";"unknown";"unknown";"";
+"7";"74651175";"WP-THRSH_74651175(R)";"THRXU_1.85_4PINS_7X7";"X-GRP, X-GRP2, X-L1IN, X-L1OUT, X-L2IN, X-L2OUT, X-PE";"REDCUBE THR Terminal with external thread WP-THRSH";"";"";"";"";"";
+"6";"82nF/890334023021CS";"WCAP-FTXX_890334023019";"WCAP-FTXX_10X13X13X7";"COB1, COB2, COB3, COT1, COT2, COT3";"WCAP-FTXX Film Capacitors";"";"";"";"";"";
+"14";"MELF207/10R/1%";"R-EU_MELF0207R";"MINI_MELF-0207R";"R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, RINB1, RINB2, RINT1, RINT2";"RESISTOR, European symbol";"";"";"";"";"";
